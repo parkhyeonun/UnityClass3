@@ -1,11 +1,20 @@
 {
   "dependencies": {
     "com.unity.2d.animation": {
+<<<<<<< Updated upstream
       "version": "7.0.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.2d.common": "6.0.3",
+=======
+      "version": "5.2.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.common": "4.2.0",
+        "com.unity.mathematics": "1.1.0",
+>>>>>>> Stashed changes
         "com.unity.2d.sprite": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
         "com.unity.modules.uielements": "1.0.0"
@@ -13,6 +22,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.common": {
+<<<<<<< Updated upstream
       "version": "6.0.3",
       "depth": 2,
       "source": "registry",
@@ -21,41 +31,73 @@
         "com.unity.mathematics": "1.1.0",
         "com.unity.modules.uielements": "1.0.0",
         "com.unity.burst": "1.5.1"
+=======
+      "version": "4.2.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.sprite": "1.0.0",
+        "com.unity.modules.uielements": "1.0.0"
+>>>>>>> Stashed changes
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.path": {
+<<<<<<< Updated upstream
       "version": "5.0.2",
       "depth": 2,
+=======
+      "version": "4.0.2",
+      "depth": 1,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.pixel-perfect": {
+<<<<<<< Updated upstream
       "version": "5.0.1",
       "depth": 1,
+=======
+      "version": "4.0.1",
+      "depth": 0,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.psdimporter": {
+<<<<<<< Updated upstream
       "version": "6.0.4",
       "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.2d.animation": "7.0.6",
         "com.unity.2d.common": "6.0.3",
+=======
+      "version": "4.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.common": "4.2.0",
+        "com.unity.2d.animation": "5.2.0",
+>>>>>>> Stashed changes
         "com.unity.2d.sprite": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
+<<<<<<< Updated upstream
       "depth": 1,
+=======
+      "depth": 0,
+>>>>>>> Stashed changes
       "source": "builtin",
       "dependencies": {}
     },
     "com.unity.2d.spriteshape": {
+<<<<<<< Updated upstream
       "version": "7.0.4",
       "depth": 1,
       "source": "registry",
@@ -63,12 +105,22 @@
         "com.unity.mathematics": "1.1.0",
         "com.unity.2d.common": "6.0.3",
         "com.unity.2d.path": "5.0.2",
+=======
+      "version": "5.3.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.mathematics": "1.1.0",
+        "com.unity.2d.common": "4.2.0",
+        "com.unity.2d.path": "4.0.2",
+>>>>>>> Stashed changes
         "com.unity.modules.physics2d": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.tilemap": {
       "version": "1.0.0",
+<<<<<<< Updated upstream
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
@@ -96,6 +148,14 @@
     },
     "com.unity.collab-proxy": {
       "version": "1.15.18",
+=======
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+    "com.unity.collab-proxy": {
+      "version": "1.17.0",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -110,6 +170,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.feature.2d": {
       "version": "1.0.0",
       "depth": 0,
@@ -130,6 +191,14 @@
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
+=======
+    "com.unity.ide.rider": {
+      "version": "2.0.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.1"
+>>>>>>> Stashed changes
       },
       "url": "https://packages.unity.com"
     },
@@ -150,6 +219,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.mathematics": {
+<<<<<<< Updated upstream
       "version": "1.2.6",
       "depth": 2,
       "source": "registry",
@@ -159,11 +229,16 @@
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
       "depth": 2,
+=======
+      "version": "1.1.0",
+      "depth": 1,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
+<<<<<<< Updated upstream
       "version": "1.4.0",
       "depth": 1,
       "source": "registry",
@@ -171,6 +246,13 @@
         "com.unity.modules.unitywebrequest": "1.0.0",
         "com.unity.nuget.newtonsoft-json": "3.0.2",
         "com.unity.modules.androidjni": "1.0.0"
+=======
+      "version": "1.0.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0"
+>>>>>>> Stashed changes
       },
       "url": "https://packages.unity.com"
     },
@@ -195,7 +277,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.timeline": {
+<<<<<<< Updated upstream
       "version": "1.6.4",
+=======
+      "version": "1.4.8",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -215,6 +301,7 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+<<<<<<< Updated upstream
     "com.unity.visualscripting": {
       "version": "1.7.8",
       "depth": 0,
@@ -225,6 +312,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> Stashed changes
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

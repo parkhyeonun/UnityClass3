@@ -3,8 +3,13 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< Updated upstream
   serializedVersion: 23
   productGUID: d87984550e9c2704192353fbffc44a51
+=======
+  serializedVersion: 22
+  productGUID: acf44b51aa2b30c44a8bf4d7f6e69549
+>>>>>>> Stashed changes
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -99,7 +104,11 @@ PlayerSettings:
   xboxEnableFitness: 0
   visibleInBackground: 1
   allowFullscreenSwitch: 1
+<<<<<<< Updated upstream
   fullscreenMode: 1
+=======
+  fullscreenMode: 3
+>>>>>>> Stashed changes
   xboxSpeechDB: 0
   xboxEnableHeadOrientation: 0
   xboxEnableGuest: 0
@@ -145,7 +154,10 @@ PlayerSettings:
     enable360StereoCapture: 0
   isWsaHolographicRemotingEnabled: 0
   enableFrameTimingStats: 0
+<<<<<<< Updated upstream
   enableOpenGLProfilerGPURecorders: 1
+=======
+>>>>>>> Stashed changes
   useHDRDisplay: 0
   D3DHDRBitDepth: 0
   m_ColorGamuts: 00000000
@@ -162,7 +174,11 @@ PlayerSettings:
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
   AndroidBundleVersionCode: 1
+<<<<<<< Updated upstream
   AndroidMinSdkVersion: 22
+=======
+  AndroidMinSdkVersion: 19
+>>>>>>> Stashed changes
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -218,7 +234,10 @@ PlayerSettings:
   iOSLaunchScreeniPadCustomStoryboardPath: 
   iOSDeviceRequirements: []
   iOSURLSchemes: []
+<<<<<<< Updated upstream
   macOSURLSchemes: []
+=======
+>>>>>>> Stashed changes
   iOSBackgroundModes: 0
   iOSMetalForceHardShadows: 0
   metalEditorSupport: 1
@@ -236,7 +255,11 @@ PlayerSettings:
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
   clonedFromGUID: 10ad67313f4034357812315f3c407484
+<<<<<<< Updated upstream
   templatePackageId: com.unity.template.2d@6.1.1
+=======
+  templatePackageId: com.unity.template.2d@5.0.2
+>>>>>>> Stashed changes
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -303,7 +326,11 @@ PlayerSettings:
   m_BuildTargetGraphicsAPIs:
   - m_BuildTarget: AndroidPlayer
     m_APIs: 150000000b000000
+<<<<<<< Updated upstream
     m_Automatic: 1
+=======
+    m_Automatic: 0
+>>>>>>> Stashed changes
   - m_BuildTarget: iOSSupport
     m_APIs: 10000000
     m_Automatic: 1
@@ -319,9 +346,12 @@ PlayerSettings:
   m_BuildTargetGroupLightmapEncodingQuality: []
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetNormalMapEncoding: []
+<<<<<<< Updated upstream
   m_BuildTargetDefaultTextureCompressionFormat:
   - m_BuildTarget: Android
     m_Format: 3
+=======
+>>>>>>> Stashed changes
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -340,7 +370,10 @@ PlayerSettings:
   switchScreenResolutionBehavior: 2
   switchUseCPUProfiler: 0
   switchUseGOLDLinker: 0
+<<<<<<< Updated upstream
   switchLTOSetting: 0
+=======
+>>>>>>> Stashed changes
   switchApplicationID: 0x01004b9000490000
   switchNSODependencies: 
   switchTitleNames_0: 
@@ -579,6 +612,10 @@ PlayerSettings:
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
   useDeterministicCompilation: 1
+<<<<<<< Updated upstream
+=======
+  useReferenceAssemblies: 1
+>>>>>>> Stashed changes
   enableRoslynAnalyzers: 1
   additionalIl2CppArgs: 
   scriptingRuntimeVersion: 1
@@ -664,6 +701,9 @@ PlayerSettings:
   organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
+<<<<<<< Updated upstream
   playerDataPath: 
   forceSRGBBlit: 1
+=======
+>>>>>>> Stashed changes
   virtualTexturingSupportEnabled: 0
